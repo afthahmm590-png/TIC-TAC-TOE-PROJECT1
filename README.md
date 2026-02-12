@@ -15,8 +15,8 @@ python tictactoe-Project.py
 
 ## Screenshots
 <div align="center">
- ![Screenshot](screenshots/game_screen.png)
- ![Screenshot](screenshots/win_screen.png)
+![Game Screen](screenshots/game_screen.png)
+![Win Screen](screenshots/win_screen.png)
 </div>
 
 ## Author
