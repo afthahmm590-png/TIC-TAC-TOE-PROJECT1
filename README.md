@@ -14,10 +14,9 @@ python tictactoe-Project.py
 5. Click Restart button to play again.
 
 ## Screenshots
-<div align="center">
+## Screenshots
 ![Game Screen](screenshots/game_screen.png)
 ![Win Screen](screenshots/win_screen.png)
-</div>
 
 ## Author
 Afthah Bin Rafi
