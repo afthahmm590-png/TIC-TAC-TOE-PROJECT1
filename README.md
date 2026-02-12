@@ -1,10 +1,11 @@
 # TIC-TAC-TOE
 
 This repository contains python based interactive Tic-Tac-Toe game.
+
+
+Running Tic-Tac-Toe:
 ```bash
 command here
-Running Tic-Tac-Toe:
-
 git clone https://github.com/afthahmm590-png/TIC-TAC-TOE-PROJECT1.git
 cd TIC-TAC-TOE-PROJECT1/
 python tictactoe-Project.py
